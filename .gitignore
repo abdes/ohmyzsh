@@ -1,5 +1,5 @@
-# custom files
-custom/
+# custom files - not ignored in our fork as this is a custom fork
+# custom/
 
 # temp files directories
 cache/
